@@ -8,7 +8,7 @@ ExercitaPython é uma plataforma interativa para praticar **lógica de programa�
 
 ## 🌐 Preview
 
-![preview do site](https://github.com/seu-usuario/exercita-python/assets/preview.png)
+![preview do site](https://github.com/robsonalbuquerquedev/exercita-python/public/preview.png)
 
 Acesse em: [exercita-python.vercel.app](https://exercita-python.vercel.app)
 
